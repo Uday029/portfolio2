@@ -109,14 +109,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Uday029/udayveer-portfolio-showcase/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <!-- 🔥 FOOTER -->
 
 <p align="center">✨ “Code. Learn. Build. Repeat.” ✨</p>
